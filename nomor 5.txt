@@ -1,0 +1,21 @@
+Analisa program 
+Pada program signup terdapat deklarasi sebuah variabel untuk
+mengeksekusi sebuah program, 
+pada program sign up yang saya buat tidak terdapat class 
+signupdimana saya menggantinya dengan function validation yang berisikan username dan password,
+jika email dan password kosong maka program tidak akan mengeksekusi dan memberitahukan bahwa username atau
+passwordnya kosong, 
+lalu program akan kembali untuk merintahkan mengisikan username nya.  
+
+Kemudian pada program signin saya sedikit sama dengan signin/login
+kemudian terdapat juga sebuah percabangan if yang didalamnya terdapat ketentuan ketetuan yang
+harus diinputkan dengan benar mengenai kriteria email, kondisi percabangan yang pertama jika email dan 
+password kosong maka program tidak akan mengeksekusi,  
+sebgai kesalahan dalam input, setelah itu masuk pada kondisi percabangan selanjutnya yaitu dimana masuk 
+dalam penyimpanan nilai dari atribut email itu sendiri sebgai username yanga akan ditampilakn pada bagain 
+home.
+
+kesederhaan Codingan procedural instruksi dilakukan langkah demi langkah, 
+sedangkan untuk OOP lebih menyusun semua kode dibagi class class program dan struktur data sebagai objek 
+Codingan ini membutuhkan lebih sedikit memori ketimbang OOP dan juga mudah dipahami bagi saya juga mudah dibuat.
+
